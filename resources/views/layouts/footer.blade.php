@@ -6,10 +6,10 @@
                     <img src="assets/images/Group 3.svg" alt="oleez" class="footer-logo" height="10px">
                     <p class="footer-intro-text">Dhisan Atelier serves home design services according to your wishes. We have a team of professional and experienced architects</p>
                     <nav class="footer-social-links">
-                        <a href="#!">Fb</a>
-                        <a href="#!">Tw</a>
-                        <a href="#!">In</a>
-                        <a href="#!">Be</a>
+                        <a href="https://www.facebook.com/profile.php?id=100070695971620" target="_blank" rel="noopener noreferrer">Fb</a>
+                        <a href="https://twitter.com/AtelierDhisan" target="_blank" rel="noopener noreferrer">Tw</a>
+                        <a href="https://www.instagram.com/dhisan.atelier/" target="_blank" rel="noopener noreferrer">In</a>
+                        <a href="https://wa.me/6283814563771" target="_blank" rel="noopener noreferrer">Wa</a>
                     </nav>
                 </div>
                 <div class="col-md-6">

@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light">
+<nav class="navbar navbar-expand-lg navbar-light" style="">
             <a class="navbar-brand" href="{{ url('/') }}"><img src="assets/images/font-dark.svg" alt="Oleez" height="38px"></a>
             <ul class=" nav nav-actions d-lg-none ml-auto">
                 <li class="nav-item">

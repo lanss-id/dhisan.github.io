@@ -59,7 +59,7 @@
                         <div class="card landing-project-card">
                             <img src="assets/images/projek-1.jpg" class="card-img" alt="Project 1" style="width: 100%;
                             height: auto;">
-                            <div class="card-img-overlay" style="background:  rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);">
+                            <div class="card-img-overlay" style="background: rgba(68, 68, 68, 0.5); backdrop-filter: blur(2px);">
                                 <p class="project-title">Nuansa Alam Project</p>
                                 <p class="project-category">Interior Design</p>
                             </div>
@@ -67,7 +67,7 @@
                         <div class="card landing-project-card">
                             <img src="assets/images/projek-2.jpg" class="card-img" alt="Project 2" style="width: 100%;
                             height: auto;">
-                            <div class="card-img-overlay" style="background:  rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);">
+                            <div class="card-img-overlay" style="background: rgba(68, 68, 68, 0.5); backdrop-filter: blur(2px);">
                                 <p class="project-title">Nuansa Alam Project</p>
                                 <p class="project-category">Interior Design</p>
                             </div>
@@ -75,7 +75,7 @@
                         <div class="card landing-project-card">
                             <img src="assets/images/projek-3.jpg" class="card-img" alt="Project 3" style="width: 100%;
                             height: auto;">
-                            <div class="card-img-overlay" style="background:  rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);">
+                            <div class="card-img-overlay" style="background: rgba(68, 68, 68, 0.5); backdrop-filter: blur(2px);">
                                 <p class="project-title">Nuansa Alam Project</p>
                                 <p class="project-category">Interior Design</p>
                             </div>
@@ -83,7 +83,7 @@
                         <div class="card landing-project-card">
                             <img src="assets/images/projek-4.jpg" class="card-img" alt="Project 4" style="width: 100%;
                             height: auto;">
-                            <div class="card-img-overlay" style="background:  rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);">
+                            <div class="card-img-overlay" style="background: rgba(68, 68, 68, 0.5); backdrop-filter: blur(2px);">
                                 <p class="project-title">Nuansa Alam Project</p>
                                 <p class="project-category">Interior Design</p>
                             </div>
@@ -326,19 +326,16 @@
         </button>
         <ul class="oleez-social-menu">
             <li>
-                <a href="#!" class="oleez-social-menu-link">Facebook</a>
+                <a href="https://www.facebook.com/profile.php?id=100070695971620" target="_blank" rel="noopener noreferrer" class="oleez-social-menu-link">Facebook</a>
             </li>
             <li>
-                <a href="#!" class="oleez-social-menu-link">Instagram</a>
+                <a href="https://www.instagram.com/dhisan.atelier/" target="_blank" rel="noopener noreferrer" class="oleez-social-menu-link">Instagram</a>
             </li>
             <li>
-                <a href="#!" class="oleez-social-menu-link">Behance</a>
+                <a href="https://twitter.com/AtelierDhisan" target="_blank" rel="noopener noreferrer" class="oleez-social-menu-link">Twitter</a>
             </li>
             <li>
-                <a href="#!" class="oleez-social-menu-link">Dribbble</a>
-            </li>
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Email</a>
+                <a href=" https://wa.me/6283814563771" target="_blank" rel="noopener noreferrer" class="oleez-social-menu-link">Whatsapp</a>
             </li>
         </ul>
     </nav>

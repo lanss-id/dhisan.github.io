@@ -13,7 +13,7 @@
     
     <main class="about-page">
         <div class="container">
-            <h1 class="oleez-page-title wow fadeInLeft">About Us</h1>
+            <h1 class="oleez-page-title wow fadeInLeft" style="color: #F7B500">About Us</h1>
         </div>
         <img src="assets/images/a.png" alt="about" class="img-fluid wow fadeInUp ">
         <div class="container">           
@@ -24,11 +24,11 @@
             <section class="oleez-about-features">
                 <div class="row">
                     <div class="col-md-4 mb-5 mb-md-0 feature-card wow fadeInUp">
-                        <h5 class="feature-card-title">Perfect Design</h4>
+                        <h5 class="feature-card-title"><span style="color: #F7B500"> Perfect </span>&nbsp; Design</h5>
                         <p class="feature-card-content">Dhisan Atelier is committed to providing designs according to your wishes without compromising the artistic value in design</p>
                     </div>
                     <div class="col-md-4 mb-5 mb-md-0 feature-card wow fadeInUp">
-                        <h5 class="feature-card-title">Careful Planning</h4>
+                        <h5 class="feature-card-title">Careful &nbsp; <span style="color: #F7B500"> Planning </span></h4>
                         <p class="feature-card-content">Not only designing, we also make careful planning from 0 until your house can be built and occupied</p>
                     </div>
                     <div class="col-md-4 mb-5 mb-md-0 feature-card wow fadeInUp">
