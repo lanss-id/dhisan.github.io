@@ -16,7 +16,7 @@
                     <div class="row">
                         <div class="col-md-6 footer-widget-text">
                             <h6 class="widget-title">PHONE</h6>
-                            <p class="widget-content">+62 888 9482 795</p>
+                            <p class="widget-content">+62 838 1456 3771</p>
                         </div>
                         <div class="col-md-6 footer-widget-text">
                             <h6 class="widget-title">ENQUIRUES</h6>

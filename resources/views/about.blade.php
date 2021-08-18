@@ -13,7 +13,7 @@
     
     <main class="about-page">
         <div class="container">
-            <h1 class="oleez-page-title wow fadeInLeft" style="color: #F7B500">About Us</h1>
+            <h1 class="oleez-page-title wow fadeInLeft">About Us</h1>
         </div>
         <img src="assets/images/a.png" alt="about" class="img-fluid wow fadeInUp ">
         <div class="container">           
@@ -32,7 +32,7 @@
                         <p class="feature-card-content">Not only designing, we also make careful planning from 0 until your house can be built and occupied</p>
                     </div>
                     <div class="col-md-4 mb-5 mb-md-0 feature-card wow fadeInUp">
-                        <h5 class="feature-card-title">Best Execution</h4>
+                        <h5 class="feature-card-title"><span style="color: #F7B500">Best</span>&nbsp; Execution</h4>
                         <p class="feature-card-content">We pay great attention to details because the best designs are designs that provide perfect details so that artistic value is realized</p>
                     </div>
                 </div>
@@ -98,28 +98,7 @@
 
     <!-- Modals -->
     <!-- Off canvas social menu -->
-    <nav id="offCanvasMenu" class="off-canvas-menu">
-        <button type="button" class="close" aria-label="Close" data-dismiss="offCanvasMenu">
-            <span aria-hidden="true">&times;</span>
-        </button>
-        <ul class="oleez-social-menu">
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Facebook</a>
-            </li>
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Instagram</a>
-            </li>
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Behance</a>
-            </li>
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Dribbble</a>
-            </li>
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Email</a>
-            </li>
-        </ul>
-    </nav>
+    @include('partials.off-canvas')
     <!-- Full screen search box -->
     <div id="searchModal" class="search-modal">
         <button type="button" class="close" aria-label="Close" data-dismiss="searchModal">
