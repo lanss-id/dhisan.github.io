@@ -10,7 +10,7 @@
                             Dhisan Atelier
                         </div>
                         <div class="teks-dark">
-                            Architecture <a href="{{ url('/gallery') }}" class="text-decoration-none text-white">Interior</a>
+                            Arsitektur <a href="{{ url('/gallery') }}" class="text-decoration-none text-white">Interior</a>
                         </div>
                     </div>
                 </div>
@@ -24,7 +24,7 @@
                             Dhisan Atelier
                         </div>
                         <div class="teks-dark">
-                            Architecture <a href="{{ url('/gallery') }}" class="text-decoration-none text-white">Interior</a>
+                            Arsitektur <a href="{{ url('/gallery') }}" class="text-decoration-none text-white">Interior</a>
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                             Dhisan Atelier
                         </div>
                         <div class="teks-dark">
-                            Architecture <a href="{{ url('/gallery') }}" class="text-decoration-none text-white">Interior</a>
+                            Arsitektur <a href="{{ url('/gallery') }}" class="text-decoration-none text-white">Interior</a>
                         </div>
                     </div>
                 </div>
@@ -52,7 +52,7 @@
                             Dhisan Atelier
                         </div>
                         <div class="teks-dark">
-                            Architecture <a href="{{ url('/gallery') }}" class="text-decoration-none text-white">Interior</a>
+                            Arsitektur <a href="{{ url('/gallery') }}" class="text-decoration-none text-white">Interior</a>
                         </div>
                     </div>
                 </div>

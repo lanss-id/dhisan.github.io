@@ -63,7 +63,7 @@
   
   .teks {
     color: white;
-    font-size: 50px;
+    font-size: 10vh;
     position: relative;
     top: 40%;
     left: 50%;
@@ -76,7 +76,7 @@
   }
   .teks-dark {
     color: rgb(241, 241, 241);
-    font-size: 35px;
+    font-size: 7vh;
     position: relative;
     top: 40%;
     left: 50%;

@@ -16,35 +16,35 @@
             <h1 class="oleez-page-title wow fadeInUp">Dhisan Gallery</h1>
             <div class="grid clearfix">
                 <div class="grid-sizer"></div>
-                <a href="assets/images/Masonary/Mask@2x.jpg" class="grid-item wow fadeInUp" data-fancybox="masonry-gallery">
-                    <img src="assets/images/Masonary/Mask@2x.jpg" alt="grid item">
+                <a href="assets/images/galery/Picture8.jpg" class="grid-item wow fadeInUp" data-fancybox="masonry-gallery">
+                    <img src="assets/images/galery/Picture8.jpg" alt="grid item">
                 </a>
-                <a href="assets/images/Masonary/projek-4.jpg" class="grid-item col-span-2 row-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
-                    <img src="assets/images/Masonary/projek-4.jpg" alt="grid item">
+                <a href="assets/images/galery/Picture13.png" class="grid-item col-span-2 row-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
+                    <img src="assets/images/galery/Picture13.png" alt="grid item">
                 </a>
-                <a href="assets/images/Masonary/Mask_Copy_2@2x.jpg" class="grid-item row-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
-                    <img src="assets/images/Masonary/Mask_Copy_2@2x.jpg" alt="grid item">
+                <a href="assets/images/galery/Picture14.jpg" class="grid-item row-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
+                    <img src="assets/images/galery/Picture14.jpg" alt="grid item">
                 </a>
-                <a href="assets/images/Masonary/Mask_Copy_3@2x.jpg" class="grid-item row-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
-                    <img src="assets/images/Masonary/Mask_Copy_3@2x.jpg" alt="grid item">
+                <a href="assets/images/galery/Picture37.jpg" class="grid-item row-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
+                    <img src="assets/images/galery/Picture37.jpg" alt="grid item">
                 </a>
-                <a href="assets/images/Masonary/Mask_Copy_4@2x.jpg" class="grid-item wow fadeInUp" data-fancybox="masonry-gallery">
-                    <img src="assets/images/Masonary/Mask_Copy_4@2x.jpg" alt="grid item">
+                <a href="assets/images/galery/Picture6.jpg" class="grid-item wow fadeInUp" data-fancybox="masonry-gallery">
+                    <img src="assets/images/galery/Picture6.jpg" alt="grid item">
                 </a>
                 <a href="assets/images/Masonary/banner-4.jpg" class="grid-item col-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
                     <img src="assets/images/Masonary/banner-4.jpg" alt="grid item">
                 </a>
-                <a href="assets/images/Masonary/Mask_Copy_6@2x.jpg" class="grid-item row-span-2 col-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
-                    <img src="assets/images/Masonary/Mask_Copy_6@2x.jpg" alt="grid item">
+                <a href="assets/images/galery/Picture11.png" class="grid-item row-span-2 col-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
+                    <img src="assets/images/galery/Picture11.png" alt="grid item">
                 </a>
-                <a href="assets/images/Masonary/Mask_Copy_7@2x.jpg" class="grid-item row-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
-                    <img src="assets/images/Masonary/Mask_Copy_7@2x.jpg" alt="grid item">
+                <a href="aassets/images/galery/Picture22.jpg" class="grid-item row-span-2 wow fadeInUp" data-fancybox="masonry-gallery">
+                    <img src="assets/images/galery/Picture22.jpg" alt="grid item">
                 </a>
-                <a href="assets/images/Masonary/Mask_Copy_8@2x.jpg" class="grid-item wow fadeInUp" data-fancybox="masonry-gallery">
-                    <img src="assets/images/Masonary/Mask_Copy_8@2x.jpg" alt="grid item">
+                <a href="assets/images/galery/Picture30.jpg" class="grid-item wow fadeInUp" data-fancybox="masonry-gallery">
+                    <img src="assets/images/galery/Picture30.jpg" alt="grid item">
                 </a>
-                <a href="assets/images/Masonary/Mask_Copy_9@2x.jpg" class="grid-item wow fadeInUp" data-fancybox="masonry-gallery">
-                    <img src="assets/images/Masonary/Mask_Copy_9@2x.jpg" alt="grid item">
+                <a href="assets/images/galery/Picture21.jpg" class="grid-item wow fadeInUp" data-fancybox="masonry-gallery">
+                    <img src="assets/images/galery/Picture21.jpg" alt="grid item">
                 </a>
             </div>
         </div>
@@ -54,28 +54,7 @@
 
     <!-- Modals -->
     <!-- Off canvas social menu -->
-    <nav id="offCanvasMenu" class="off-canvas-menu">
-        <button type="button" class="close" aria-label="Close" data-dismiss="offCanvasMenu">
-            <span aria-hidden="true">&times;</span>
-        </button>
-        <ul class="oleez-social-menu">
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Facebook</a>
-            </li>
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Instagram</a>
-            </li>
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Behance</a>
-            </li>
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Dribbble</a>
-            </li>
-            <li>
-                <a href="#!" class="oleez-social-menu-link">Email</a>
-            </li>
-        </ul>
-    </nav>
+    @include('partials.off-canvas')
     <!-- Full screen search box -->
     <div id="searchModal" class="search-modal">
         <button type="button" class="close" aria-label="Close" data-dismiss="searchModal">

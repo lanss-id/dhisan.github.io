@@ -23,9 +23,9 @@
                         <a class="nav-link {{request()->is('portfolio', 'portfolio-list', 'gallery')?'active':''}} dropdown-toggle" href="#!" id="portfolioDropdown" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">Project</a>
                         <div class="dropdown-menu" aria-labelledby="portfolioDropdown">
-                            <a class="dropdown-item" href="{{ url('/portfolio-list') }}">Portfolio list</a>
-                            <a class="dropdown-item" href="{{ url('/gallery') }}">Gallery</a>
-                            <a class="dropdown-item" href="{{ url('/portfolio') }}">Portfolio grid</a>
+                            <a class="dropdown-item" href="{{ url('/portfolio-list') }}">Gallery</a>
+                            <a class="dropdown-item" href="{{ url('/gallery') }}">Gallery Masonary</a>
+                            {{-- <a class="dropdown-item" href="{{ url('/portfolio') }}">Portfolio grid</a> --}}
                         </div>
                     </li>
                     {{-- <li class="nav-item dropdown">

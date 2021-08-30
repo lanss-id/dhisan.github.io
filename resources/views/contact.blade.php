@@ -22,7 +22,7 @@
                 </div>
                 <div class="col-md-6 pl-lg-5 wow fadeInRight">
                     <div class="alert alert-dismissible fade show in-alert d-none" style="background-color: #FCDF91" role="alert">
-                        <strong>Thank you!</strong> Your massage has been sent <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check2-circle" viewBox="0 0 16 16">
+                        <strong>Terima Kasih!</strong> Pesan anda sudah terkirim <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check2-circle" viewBox="0 0 16 16">
                             <path d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z"/>
                             <path d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z"/>
                           </svg>
@@ -33,19 +33,19 @@
                     <form action="POST" class="oleez-contact-form" name="dhisan-contact-form">
                         <div class="form-group">
                             <input type="text" class="oleez-input" id="fullName" name="nama" required>
-                            <label for="fullName">Full name</label>
+                            <label for="fullName">Nama Lengkap</label>
                         </div>
                         <div class="form-group">
                             <input type="email" class="oleez-input" id="fullName" name="email" required>
                             <label for="email">Email</label>
                         </div>
                         <div class="form-group">
-                            <label for="message">Message</label>
-                            <textarea name="pesan" id="message" rows="10" class="oleez-textarea" required></textarea>
+                            <label for="message">Pesan</label>
+                            <textarea name="pesan" id="message" rows="5" class="oleez-textarea" required></textarea>
                         </div>
-                        <button type="submit" class="btn btn-submit btn-kirim">Send</button>
+                        <button type="submit" class="btn btn-submit btn-kirim">Kirim</button>
                         <div class="spinner-border spin-load d-none" style="width: 2rem; height: 2rem;" role="status">
-                            <span class="sr-only">Loading...</span>
+                            <span class="sr-only">Memproses...</span>
                         </div>
                     </form>
                 </div>

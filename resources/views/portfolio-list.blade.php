@@ -13,16 +13,16 @@
 
     <main class="portfolio-list">
         <div class="container">
-            <h1 class="oleez-page-title wow fadeInUp">Standard List</h1>
+            <h1 class="oleez-page-title wow fadeInUp">Gallery List</h1>
             <article class="project">
                 <div class="row">
                     <div class="col-md-4 mb-5 md-mb-0 project-content wow fadeInLeft">
-                        <h2 class="project-title">Simple Design Showcase</h2>
-                        <a href="#!" class="project-link">view project</a>
+                        <h2 class="project-title">Wintergreen House</h2>
+                        <a href="{{ url('portfolio') }}" class="project-link">view project</a>
                     </div>
                     <div class="col-md-7 mb-5">
                         <div class="project-thumbnail-wrapper wow fadeInRight">
-                            <img src="assets/images/Project_1@2x.jpg" alt="project">
+                            <img src="assets/images/galery/Picture13.png" alt="project">
                         </div>
                     </div>
                 </div>
@@ -30,12 +30,12 @@
             <article class="project">
                 <div class="row">
                     <div class="col-md-4 mb-5 md-mb-0 project-content wow fadeInLeft">
-                        <h2 class="project-title">Simple Design Showcase</h2>
+                        <h2 class="project-title">Lavender House</h2>
                         <a href="#!" class="project-link">view project</a>
                     </div>
                     <div class="col-md-7 wow fadeInRight">
                         <div class="project-thumbnail-wrapper">
-                            <img src="assets/images/Project_2@2x.jpg" alt="project">
+                            <img src="assets/images/galery/Picture1.jpg" alt="project">
                         </div>
                     </div>
                 </div>
@@ -43,12 +43,12 @@
             <article class="project">
                 <div class="row">
                     <div class="col-md-4 mb-5 md-mb-0 project-content wow fadeInLeft">
-                        <h2 class="project-title">Simple Design Showcase</h2>
+                        <h2 class="project-title">Entrance Gate</h2>
                         <a href="#!" class="project-link">view project</a>
                     </div>
                     <div class="col-md-7 wow fadeInRight">
                         <div class="project-thumbnail-wrapper">
-                            <img src="assets/images/Project_3@2x.jpg" alt="project">
+                            <img src="assets/images/galery/forest.jpg" alt="project">
                         </div>
                     </div>
                 </div>

@@ -29,7 +29,7 @@ class PagesController extends Controller
     public function portfolio()
     {
         $title = 'Portfolio';
-        return view ('portfolio',compact('title'));
+        return view ('winter.index',compact('title'));
     }
     public function portfolioList()
     {

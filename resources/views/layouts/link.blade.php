@@ -13,3 +13,12 @@
     <link rel="shortcut icon" href="{{ asset('assets/images/tim/logo-cilik.png') }}" type="image/x-icon">
     <script src="{{ asset('assets/vendors/jquery/jquery.min.js') }}"></script>
     <script src="{{ asset('assets/js/loader.js') }}"></script>
+    <style>
+        @font-face{
+            font-family: vegawanty;
+            src: url('/font/vegawanty/Vegawanty.otf')
+        }
+        body{
+            font-family: vegawanty;
+        }
+    </style>

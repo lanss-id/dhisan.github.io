@@ -18,63 +18,63 @@
         <img src="assets/images/a.png" alt="about" class="img-fluid wow fadeInUp ">
         <div class="container">           
             <p class="mt-5 oleez-page-header-content wow fadeInLeft" style="font-size: 20px">
-                &emsp;Dhisan Atelier is a professional architect and interior design studio in Bandung that provides services for building design solutions to the best exterior and interior construction according to your budget. Based in the city of Bandung, Dhisan was formed in 2021 with 4 solid main team formations between architects, interior designers, managers and creative teams. <br> <br>
-                &emsp;We have a passion for creating design solutions that prioritize function, ergonomics, aesthetics, and environmental responsibility. At Dhisan studio, we are committed to providing full service to clients with high quality designs and according to client satisfaction.
+                &emsp;Dhisan Atelier adalah arsitek profesional dan studio desain interior di Bandung yang menyediakan jasa solusi desain bangunan hingga konstruksi eksterior dan interior terbaik sesuai budget Anda. Berbasis di kota Bandung, Dhisan dibentuk pada tahun 2021 dengan 4 formasi tim utama yang solid antara arsitek, desainer interior, manajer dan tim kreatif. <br> <br>
+                &emsp;Kami memiliki semangat untuk menciptakan solusi desain yang mengutamakan fungsi, ergonomi, estetika, dan tanggung jawab lingkungan. Di studio Dhisan, kami berkomitmen untuk memberikan layanan penuh kepada klien dengan desain berkualitas tinggi dan sesuai dengan kepuasan klien.
             </p>
             <section class="oleez-about-features">
                 <div class="row">
                     <div class="col-md-4 mb-5 mb-md-0 feature-card wow fadeInUp">
-                        <h5 class="feature-card-title"><span style="color: #F7B500"> Perfect </span>&nbsp; Design</h5>
-                        <p class="feature-card-content">Dhisan Atelier is committed to providing designs according to your wishes without compromising the artistic value in design</p>
+                        <h5 class="feature-card-title"><span style="color: #F7B500"> Desain </span>&nbsp;  Sempurna</h5>
+                        <p class="feature-card-content">Dhisan Atelier berkomitmen untuk memberikan desain sesuai keinginan Anda tanpa mengurangi nilai fungsional maupun artistik dalam desain.</p>
                     </div>
                     <div class="col-md-4 mb-5 mb-md-0 feature-card wow fadeInUp">
-                        <h5 class="feature-card-title">Careful &nbsp; <span style="color: #F7B500"> Planning </span></h4>
-                        <p class="feature-card-content">Not only designing, we also make careful planning from 0 until your house can be built and occupied</p>
+                        <h5 class="feature-card-title">Perancangan &nbsp; <span style="color: #F7B500"> Matang </span></h4>
+                        <p class="feature-card-content">Tidak Hanya desain yang sempurna, kami juga akan merancang setiap detail fungsional pada bangunan anda.</p>
                     </div>
                     <div class="col-md-4 mb-5 mb-md-0 feature-card wow fadeInUp">
-                        <h5 class="feature-card-title"><span style="color: #F7B500">Best</span>&nbsp; Execution</h4>
-                        <p class="feature-card-content">We pay great attention to details because the best designs are designs that provide perfect details so that artistic value is realized</p>
+                        <h5 class="feature-card-title"><span style="color: #F7B500">Hasil</span>&nbsp; Terbaik</h4>
+                        <p class="feature-card-content">Kami selalu berusaha untuk memberikan hasil yang membuat anda puas atas jasa kami.</p>
                     </div>
                 </div>
             </section>
             <section class="oleez-what-we-do">
                 <div class="row">
                     <div class="col-lg-11 offset-lg-1">
-                        <h2 class="section-title wow fadeInUp">Service Options</h2>
-                        <h4 class="section-subtitle wow fadeInUp">We provide service options so that our clients are more satisfied</h4>
+                        <h2 class="section-title wow fadeInUp">Opsi Layanan</h2>
+                        <h4 class="section-subtitle wow fadeInUp">Kami memberikan pilihan layanan agar klien kami lebih puas</h4>
                         <div class="row d-flex justify-content-around">
                             <div class="col-md-4 mb-5 mb-md-0 wow fadeInUp">
-                                <h5 class="what-we-do-list-title">Architect design package</h5>
+                                <h5 class="what-we-do-list-title font-weight-bold">Paket desain arsitek</h5>
                                 <ul class="what-we-do-list">
-                                    <li>Cost and design consultation</li>
-                                    <li>Schematic programming concept</li>
-                                    <li>Construction work drawing</li>
-                                    <li>3d modeling </li>
-                                    <li>Animation visualization </li>
-                                    <li>Budget planning</li>
-                                    <li>IMB Administration</li>
-                                    <li>Field supervision</li>
+                                    <li>Konsultasi biaya dan desain</li>
+                                    <li>Konsep pemrograman skema</li>
+                                    <li>Gambar kerja konstruksi</li>
+                                    <li>model 3D </li>
+                                    <li>Visualisasi animasi </li>
+                                    <li>Perencanaan anggaran</li>
+                                    <li>Administrasi IMB</li>
+                                    <li>Pengawasan lapangan</li>
                                 </ul>
                             </div>
                             <div class="col-md-4 mb-5 mb-md-0 wow fadeInUp">
-                                <h5 class="what-we-do-list-title">Interior design package</h5>
+                                <h5 class="what-we-do-list-title font-weight-bold">Paket desain interior</h5>
                                 <ul class="what-we-do-list">
-                                    <li>Cost and design consultation</li>
-                                    <li>Schematic programming concept</li>
-                                    <li>Construction work drawing</li>
-                                    <li>3d modeling </li>
-                                    <li>Animation visualization </li>
-                                    <li>Custom furniture</li>
+                                    <li>Konsultasi biaya dan desain</li>
+                                    <li>Konsep pemrograman skema</li>
+                                    <li>Gambar kerja konstruksi</li>
+                                    <li>model 3D </li>
+                                    <li>Visualisasi animasi </li>
+                                    <li>Perabotan khusus</li>
                                 </ul>
                             </div>
                             <div class="col-md-4 mb-5 mb-md-0 wow fadeInUp">
-                                <h5 class="what-we-do-list-title">How We Work</h5>
+                                <h5 class="what-we-do-list-title font-weight-bold">Bagaimana kita bekerja</h5>
                                 <ul class="what-we-do-list">
-                                    <li>Team and client meetings</li>
-                                    <li>Programming concepts and requests from clients</li>
-                                    <li>Transparency of the design budget plan</li>
-                                    <li>Design concept development on request</li>
-                                    <li>Supervision of development in the field</li>
+                                    <li>Pertemuan tim dan klien</li>
+                                    <li>Konsep pemrograman dan permintaan dari klien</li>
+                                    <li>Transparansi rencana anggaran desain</li>
+                                    <li>Pengembangan konsep desain berdasarkan permintaan</li>
+                                    <li>Pengawasan pembangunan di lapangan</li>
                                 </ul>
                             </div>
                         </div>
@@ -87,7 +87,7 @@
                         {{-- <h2 class="section-title">Cara Kerja Kami</h2> --}}
                         {{-- <p class="section-subtitle">Would you like us to <a href="#!">work</a>  on your brand identity? We would be happy to <a href="#!">help</a>.</p> --}}
                         <div class="row d-flex justify-content-around">
-                        <a href="{{ url('/contact') }}" class="btn work-with-us-btn">Order Now</a>
+                        <a href="{{ url('/contact') }}" class="btn work-with-us-btn">Pesan Sekarang!</a>
                     </div>
                 </div>
             </section>
